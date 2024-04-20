@@ -1,0 +1,23 @@
+{
+  "name": "nftpro",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-verify": "^2.0.5",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "hardhat": "^2.22.2"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.7",
+    "@openzeppelin/contracts": "^4.9.6",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.7.2"
+  }
+}
