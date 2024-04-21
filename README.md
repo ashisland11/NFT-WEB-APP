@@ -6,7 +6,7 @@ cd frontend
 
 npm i
 
-npm run dev
+npm start/npm run dev
 
 #### nftPro:
 
